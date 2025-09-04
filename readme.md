@@ -1,0 +1,1 @@
+Haciendo un ejercicio del cole de un amigo donde _implementan MVC_ (muy de aquella manera)
